@@ -13,6 +13,9 @@ def set_and_fly(filepaths, flyers, sleeptime=10):
         Fly on flyers with file prefix for a certain sleep time.
         fileprefix: file prefix
         sleeptime : sleep time to let flyer run for
+
+
+        I've written this manually for now.
     '''
 
     # set the file paths
